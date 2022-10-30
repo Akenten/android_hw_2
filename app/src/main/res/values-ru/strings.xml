@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hse_homework_2</string>
+    <string name="textView">Пожалуйста введите текст</string>
+    <string name="button">Загуглить</string>
+</resources>
